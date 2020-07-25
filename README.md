@@ -59,11 +59,7 @@ $ yarn tsc --init
 ```
 $ yarn tsc
 ```
-
----
-
-## Guia TypeScript
-
+### Guia TypeScript
 - [Guia TypeScript](https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36)
 
 ---
